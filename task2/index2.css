@@ -1,0 +1,155 @@
+body{
+background-color:white;
+
+}
+/* .pic{
+    
+    float:right;
+    padding: 20px;
+    width:240px;
+    height: 240px;
+    image-resolution: 50px;
+    margin-block: -188px
+    
+} */
+/* .uk{
+    text-align: center;
+    margin-left: 270px;
+    
+
+}*/
+/* .header-content {
+ 
+} */
+
+.uo{
+
+
+
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+
+
+
+}
+
+
+/* 
+
+
+
+.ll:hover{
+
+
+    
+    cursor: grab;
+    border-radius: 10px;
+    text-decoration: underline;
+    color: rgb(169, 45, 21);
+    size: 10px;
+    padding: 15px;
+    
+} */
+.header-content1 {
+    background-color: lightblue;
+    flex-direction:row;
+    display: flex;
+    height: 50%;
+    align-items: center;
+   
+}
+
+.image{
+    width: 60%;
+    height: 100%;
+    padding-left: 100px;
+} 
+.ll{
+    width: 60%;
+    text-align: center;
+    padding-right: 100px;
+}
+.container{
+    background-color:darkgrey;
+    display: flex;
+}
+    /* .ui{
+        margin-left: 121px;
+        margin-top: -90px;
+    } */
+ /* .imagw{
+    max-width: 610px;
+    margin-left: 120px; 
+
+}  */
+
+ 
+/* Styles for the about section */
+ .about-content {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    
+}
+
+.k{
+
+margin-bottom: 10px;
+
+
+}
+.about-content img {
+    max-width: 65px;
+    border-radius: 5%;
+    margin-right: 30px;
+    
+} */
+
+/* Styles for the skills section */
+    /* .container {
+        text-align: center;
+    } */
+/*   
+  ul.myUL {
+    display: inline-block;
+    text-align: left;
+  } */
+
+
+
+
+  /* .pro{
+
+
+
+    padding: 20px;
+    border: 1px solid #121010;
+    margin-bottom: 20px;
+  } */
+
+/* .umerk{
+
+color: blue;
+
+
+
+} */
+
+
+.w{
+
+
+color: blue;
+}
+.sk{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 300px;
+
+
+
+
+
+} 
